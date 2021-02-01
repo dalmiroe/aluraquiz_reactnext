@@ -1,6 +1,6 @@
 {
   "bg1": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-  "bg": "img/corrida.jpg",
+  "bg": "urls(img/corrida.jpg)",
   "title": "Quiz de Corrida da Alura",
   "description": "Teste os seus conhecimentos sobre um dos esportes mais democráticos do mundo",
   "questions": [
